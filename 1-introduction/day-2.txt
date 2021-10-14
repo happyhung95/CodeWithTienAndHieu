@@ -1,0 +1,25 @@
+"""
+static and dynamic
+Browser -> facebook.com -> server facebook -> code frontend -> ajax fetch more data from backend (dynamic data) -> browser display (render) data
+
+ajax / api calls
+
+authentication process
+
+stacks
+
+database
+dependency
+domain
+domain name server
+open source
+
+URL
+    base URL
+    /endpoint
+front end send requests -> backend send responses
+
+Server facebook
+"""
+
+hung = 2
