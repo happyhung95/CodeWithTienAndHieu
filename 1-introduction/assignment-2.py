@@ -11,8 +11,8 @@ Extras:
     - The software lets him input a list of grades and will tell him the proportion in his class that has grades < 3.
     - His class have 10 students and he would like to know the top 5 grades. (Hung inputs 10 grades, sw tells the best 5)
 
-Ultimate extras:
-    - Can the software let him input not only grades but also student names? After inputting the name, he would like to check the grades
+Ultimated extras:
+    - Can the software let him input not only grades but also student names? After inputting all the names and grades , he would like to check the grades
     of some students by name as well.
       [
         The complexity of this feature is entirely up to you. 
